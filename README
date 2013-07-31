@@ -1,4 +1,4 @@
-classy is a very simple class system for lua.
+classy is a very simple class system for lua licensed under the MIT license.
 It supports inheritance, and calling functions from base classes using the 'super' table inside of classes.
 
 See example.lua for a usage example.
